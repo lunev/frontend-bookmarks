@@ -4,6 +4,7 @@
 ## Tools
  - [Autoprefixer CSS online](https://autoprefixer.github.io/)
  - [CSS Minifier](https://cssminifier.com/)
+ - [VS code hotkeys](https://tproger.ru/articles/useful-hotkeys-for-vs-code/)
 ## Links
  - [Code Snippets | CSS-Tricks](https://css-tricks.com/snippets/)
  - [Handling Long Words and URLs (Forcing Breaks, Hyphenation, Ellipsis, etc)](https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/)
